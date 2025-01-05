@@ -21,10 +21,8 @@ To give viewers a better understanding of the design and layout of each page, I'
   https://github.com/user-attachments/assets/8e075a7d-05a3-4661-bc44-7af4d7936beb
 - **Blog Page Video**: 
  https://github.com/user-attachments/assets/5e355334-1b80-4c3a-adcc-c2a356972f7d
-- **Contact Me Page Video**:
-  https://github.com/user-attachments/assets/3f32b7c1-4f5a-4dbb-97d9-3411116af5ae
+- **Contact Me Page Video**:https://github.com/user-attachments/assets/3f32b7c1-4f5a-4dbb-97d9-3411116af5ae
 
-*(Replace the placeholder links with actual URLs to your videos.)*
 
 ## Technologies Used
 
