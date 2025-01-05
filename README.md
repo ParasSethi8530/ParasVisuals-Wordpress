@@ -16,7 +16,9 @@ This project is built using WordPress and includes four main pages:
 To give viewers a better understanding of the design and layout of each page, I've created videos showcasing the four main sections of the portfolio. You can watch them here:
 
 - **Home Page Video**:
-  https://github.com/user-attachments/assets/e46fd0e2-35ce-4abf-8e9f-096d44a08376
+
+
+https://github.com/user-attachments/assets/e46fd0e2-35ce-4abf-8e9f-096d44a08376
 - **Portfolio Page Video**:
   https://github.com/user-attachments/assets/8e075a7d-05a3-4661-bc44-7af4d7936beb
 - **Blog Page Video**: 
